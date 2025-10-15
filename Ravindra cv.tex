@@ -1,0 +1,45 @@
+% !TEX TS-program = luatex
+% Complie in LuaLaTex
+% Awesome Source CV LaTeX Template
+% This template has been downloaded from:
+% https://github.com/darwiin/awesome-neue-latex-cv
+% Author: Christophe Roger (Darwiin)
+% Template license:CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+
+\documentclass[localFont,alternative]{yaac-another-awesome-cv}
+%\documentclass[localFont,alternative,10pt,compact]{yaac-another-awesome-cv}
+\name{Ravindra}{Ramavath}
+%\tagline{Senior General Manager}
+\photo{2.5cm}{ravi.jpg}
+\socialinfo{
+	\smartphone{+91 9870260211} \\
+	\email{ravindra.ramavath@gmail.com} \\
+%	\skype{ravindra.ramavath} 
+	\linkedin{ravindrar79}\\
+%	\github{ravindraramavath}\\
+	\address{Bengaluru, India}\\
+%	\infos{26 June 1979 in Hyderabad, Telangana}
+}
+
+% Uncomment the following line and use a value from 1.5cm to 2.5cm
+\setleftcolumnlength{1.5cm}
+
+\begin{document}
+	\makecvheader
+	\makecvfooter
+		{\textsc{\selectlanguage{english}\today}}  
+		{\textsc{Ravindra Ramavath~~~·~~~CV}}
+		{\thepage}
+	\input{section_headline}
+	\bigskip
+	\input{section_experience}		
+	\input{section_education}
+	\input{section_interests}	
+
+%	\input{section_scolarite}			
+%	\input{section_interets}			
+%	\input{section_projets}
+%	\input{section_competences}
+%	\input{section_langs}					
+%	\input{section_references} 				
+\end{document}
