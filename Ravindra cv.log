@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.1 (MiKTeX 24.1) (format=lualatex 2025.10.13)  14 OCT 2025 22:46
+This is LuaHBTeX, Version 1.17.1 (MiKTeX 24.1) (format=lualatex 2025.10.13)  17 OCT 2025 00:00
  restricted system commands enabled.
 **"Ravindra cv.tex"
 ("./Ravindra cv.tex"
@@ -1118,7 +1118,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 28.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 28.
-<ravi.jpg, id=8, 943.72575pt x 943.72575pt>
+<ravi.jpg, id=20, 943.72575pt x 943.72575pt>
 File: ravi.jpg Graphic file (type jpg)
 <use ravi.jpg>
 Package luatex.def Info: ravi.jpg  used on input line 28.
@@ -1134,7 +1134,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--28
  []
 
 (./section_headline.tex) (./section_experience.tex
-Overfull \hbox (18.7095pt too wide) in alignment at lines 4--136
+Overfull \hbox (18.7095pt too wide) in alignment at lines 4--141
  [][] 
  []
 
@@ -1151,7 +1151,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--11
 
  []
 
-) [2] ("./Ravindra cv.aux")
+)
+Overfull \hbox (6.07048pt too wide) in paragraph at lines 15--38
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--38
+
+ []
+
+[2] ("./Ravindra cv.aux")
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -1161,23 +1171,23 @@ Package rerunfilecheck Info: File `"Ravindra cv".out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 32597 strings out of 476497
- 305429,1977958 words of node,token memory allocated
- 992 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 20 glue, 3 kern, 1 penalty, 2 glyph, 145 attribute,
- 72 glue_spec, 22 attribute_list, 2 write nodes
-   avail lists: 1:9,2:22212,3:3207,4:284,5:3610,6:244,7:21757,8:2,9:2284,10:10,1
-1:1990
- 53871 multiletter control sequences out of 65536+600000
+ 32601 strings out of 476497
+ 305423,1977958 words of node,token memory allocated
+ 1014 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 20 glue, 3 kern, 1 penalty, 2 glyph, 152 attribute,
+ 72 glue_spec, 23 attribute_list, 2 write, 1 pdf_action nodes
+   avail lists: 1:10,2:22884,3:3211,4:332,5:3764,6:241,7:21570,8:2,9:2310,10:10,
+11:1945
+ 53875 multiletter control sequences out of 65536+600000
  49 fonts using 7584799 bytes
- 117i,12n,114p,1201b,1088s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 117i,12n,114p,1225b,1088s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <//?/c:/program files/miktex/fonts/opentype/public/fontawesome5/fontawesome5bran
 ds-regular-400.otf><//?/c:/program files/miktex/fonts/opentype/public/fontawesom
 e5/fontawesome5free-solid-900.otf><./fonts/SourceSansPro-Light.otf><./fonts/Sour
 ceSansPro-Regular.otf>
-Output written on Ravindra cv.pdf (2 pages, 1703022 bytes).
+Output written on Ravindra cv.pdf (2 pages, 1705859 bytes).
 
-PDF statistics: 62 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 77 PDF objects out of 1000 (max. 8388607)
  7 named destinations out of 1000 (max. 131072)
- 16 words of extra memory for PDF output out of 10000 (max. 100000000)
+ 40 words of extra memory for PDF output out of 10000 (max. 100000000)
 
